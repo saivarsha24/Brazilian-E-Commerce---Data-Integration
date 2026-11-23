@@ -1,4 +1,3 @@
-# Brazilian-E-Commerce Public Dataset by Olist
 # Olist Brazilian E-Commerce Big Data ETL Pipeline (Apache Spark)
 
 ## Project Overview
