@@ -1,5 +1,4 @@
-# Olist Brazilian E-Commerce Big Data ETL Pipeline (Apache Spark)
-
+# OLIST BRAZILIAN E-COMMERCE BIG DATA ETL PIPELINE (APACHE SPARK)
 ## Project Overview
 This project builds an end-to-end **Big Data ETL (Extract, Transform, Load) pipeline** using **Apache Spark (PySpark)** in **Databricks**. Using the real-world **Olist Brazilian E-Commerce Public Dataset** (nearly 100,000 orders across 9 relational tables), the pipeline cleans messy raw records, combines structured CSV files with semi-structured JSON data, stores the unified dataset in **Apache Parquet** format, and generates business insights using **Spark SQL**.
 
